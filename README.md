@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 </p>
 
 <p align="center">
-  Hello there! My name is Aline, but you may know me as Ally or Lune. I'm a mix of frutiger aero with synthwave. 
+  Hello there! My name is Aline, but you may know me as Ally or Lune and I'm a mix of frutiger aero with synthwave. 
 </p>
 <p align="center">
   As a Software Engineering student transitioning from the real estate field, I aim to use my skills to create practical solutions to real world problems — all while keeping it cute. <img width="20" height="20" alt="small cat pixel" src="https://i.imgur.com/7MrzBr7.gif" /></p>
