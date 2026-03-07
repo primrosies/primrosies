@@ -1,4 +1,4 @@
-## What's up fellow kids 🛹
+## How do you do fellow kids 🛹
 
 <!--
 **primrosies/primrosies** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
