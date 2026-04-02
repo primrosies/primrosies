@@ -22,13 +22,15 @@ Here are some ideas to get you started:
   Hello there! My name is Aline, but you may know me as Ally or Lune and I'm a mix of frutiger aero with synthwave. 
 </p>
 <p align="center">
-  As a Software Engineering student transitioning from the real estate field, I aim to use my skills to create practical solutions to real world problems — all while keeping it cute. <img width="20" height="20" alt="small cat pixel" src="https://i.imgur.com/7MrzBr7.gif" /></p>
+  I'm a Software Engineering student specializing in QA & Test Automation. My thing is breaking applications before users do - with Playwright,
+TypeScript and lots of attention! All while keeping it cute <img width="20" height="20" alt="small cat pixel" src="https://i.imgur.com/7MrzBr7.gif" />
+  <p align ="center">Currently building: manual test suites, E2E automation, and a career in (with) quality. </p>
 </p>
 
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=css,html,javascript,cs,git" />
+    <img src="https://skills.syvixor.com/api/icons?perline=15&i=playwright,typescript,javascript,git,githubactions,postman" />
   </a>
     <br><br>
   <img width="180" height="12" alt="image" src="https://github.com/user-attachments/assets/ae5d480c-78ad-4d05-aac0-78a4dc94a852" />
