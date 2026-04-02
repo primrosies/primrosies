@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 </p>
 <p align="center">
   I'm a Software Engineering student specializing in QA & Test Automation. My thing is breaking applications - before users do - with Playwright,
-TypeScript and lots of attention! All while keeping it cute <img width="20" height="20" alt="small cat pixel" src="https://i.imgur.com/7MrzBr7.gif" />
+TypeScript and lots of attention! All while keeping it cute  <img width="20" height="20" alt="small cat pixel" src="https://i.imgur.com/7MrzBr7.gif" />
   <p align ="center">Currently building: manual test suites, E2E automation, and a career in (with) quality. </p>
 </p>
 
