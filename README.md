@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <p align="center">
-  <img width="500" height="500" alt="girl in computer pixel art" src="https://victorards.carrd.co/assets/images/gallery01/d36dcbcd_original.gif?v=baf1fe3b" />
+  <img width="640" height="400" alt="girl in computer pixel art" src="https://victorards.carrd.co/assets/images/gallery01/d36dcbcd_original.gif?v=baf1fe3b" />
 </p>
 
 <p align="center">
